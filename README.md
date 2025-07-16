@@ -33,3 +33,8 @@ The lab’s objective was to configure a Linux server with:
 ---
 
 *This lab was completed as part of my Cisco Linux Essentials course.*
+## 🔗 Project Files
+
+- 📘 [Cheat Sheet](linux_essentials_cheat_sheet.md)
+- ⚙️ [Setup Commands](setup_commands.sh)
+- 🖼️ [Screenshots Folder](screenshots/)
