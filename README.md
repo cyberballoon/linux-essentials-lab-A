@@ -1,6 +1,5 @@
 # linux-essentials-lab-A
 User Management
-
 This repository contains my completed Linux Essentials lab work focused on user and group management, permissions, and secure directory setup for a company’s newly created departments.
 
 ## Lab Overview
